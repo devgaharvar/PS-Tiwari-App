@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rygelouv:android-audio-sensei:0.1.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/159f3c5f036e2f18a7c96a16a61ce4d1/jetified-android-audio-sensei-0.1.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9a318abece1cc6f0d54fb18d8d44de1/jetified-android-audio-sensei-0.1.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d158f00bf3e3aeef0266c443dfc2dc6e/jetified-android-audio-sensei-0.1.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/810d583b10c41daaff42d738a875d871/jetified-android-audio-sensei-0.1.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/159f3c5f036e2f18a7c96a16a61ce4d1/jetified-android-audio-sensei-0.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/159f3c5f036e2f18a7c96a16a61ce4d1/jetified-android-audio-sensei-0.1.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/159f3c5f036e2f18a7c96a16a61ce4d1/jetified-android-audio-sensei-0.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9a318abece1cc6f0d54fb18d8d44de1/jetified-android-audio-sensei-0.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9a318abece1cc6f0d54fb18d8d44de1/jetified-android-audio-sensei-0.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9a318abece1cc6f0d54fb18d8d44de1/jetified-android-audio-sensei-0.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d158f00bf3e3aeef0266c443dfc2dc6e/jetified-android-audio-sensei-0.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d158f00bf3e3aeef0266c443dfc2dc6e/jetified-android-audio-sensei-0.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d158f00bf3e3aeef0266c443dfc2dc6e/jetified-android-audio-sensei-0.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/810d583b10c41daaff42d738a875d871/jetified-android-audio-sensei-0.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/810d583b10c41daaff42d738a875d871/jetified-android-audio-sensei-0.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/810d583b10c41daaff42d738a875d871/jetified-android-audio-sensei-0.1.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

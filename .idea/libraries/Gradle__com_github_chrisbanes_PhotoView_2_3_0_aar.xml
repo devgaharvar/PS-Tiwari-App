@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.chrisbanes:PhotoView:2.3.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/baf2fe4f81327702b257863bb6ed62a9/jetified-PhotoView-2.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/baf2fe4f81327702b257863bb6ed62a9/jetified-PhotoView-2.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/baf2fe4f81327702b257863bb6ed62a9/jetified-PhotoView-2.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/baf2fe4f81327702b257863bb6ed62a9/jetified-PhotoView-2.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52e49a1aba6da912ff13f0110cb4d55b/jetified-PhotoView-2.3.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23460cc1ee9130c3ec189daa181f0af1/jetified-PhotoView-2.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23460cc1ee9130c3ec189daa181f0af1/jetified-PhotoView-2.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23460cc1ee9130c3ec189daa181f0af1/jetified-PhotoView-2.3.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../sdk/caches/modules-2/files-2.1/com.github.chrisbanes/PhotoView/2.3.0/d8422d470ae4cb6b59ba36da3186028a9be71151/PhotoView-2.3.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.chrisbanes/PhotoView/2.3.0/d8422d470ae4cb6b59ba36da3186028a9be71151/PhotoView-2.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../sdk/caches/modules-2/files-2.1/com.github.chrisbanes/PhotoView/2.3.0/b14c949b5aab64ffeaf699a67a71a8bf89a12c8/PhotoView-2.3.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.chrisbanes/PhotoView/2.3.0/b14c949b5aab64ffeaf699a67a71a8bf89a12c8/PhotoView-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

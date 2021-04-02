@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jgabrielfreitas:BlurImageView:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/ae15a66523303a87affdc4d7e2ebfe24/jetified-BlurImageView-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/ae15a66523303a87affdc4d7e2ebfe24/jetified-BlurImageView-1.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/ae15a66523303a87affdc4d7e2ebfe24/jetified-BlurImageView-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/468811fde7dfad0827d7e1a6bcd71f00/jetified-BlurImageView-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/468811fde7dfad0827d7e1a6bcd71f00/jetified-BlurImageView-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/468811fde7dfad0827d7e1a6bcd71f00/jetified-BlurImageView-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../sdk/caches/modules-2/files-2.1/com.github.jgabrielfreitas/BlurImageView/1.0.1/6931d002eda28048e1b25c7b9eae88f1495fb00c/BlurImageView-1.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jgabrielfreitas/BlurImageView/1.0.1/6931d002eda28048e1b25c7b9eae88f1495fb00c/BlurImageView-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

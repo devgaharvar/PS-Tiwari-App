@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vanniktech:emoji-ios:0.6.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/43017baa19d7bffbde6b63f48abdf3b6/jetified-emoji-ios-0.6.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/43017baa19d7bffbde6b63f48abdf3b6/jetified-emoji-ios-0.6.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/caches/transforms-2/files-2.1/43017baa19d7bffbde6b63f48abdf3b6/jetified-emoji-ios-0.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14650b123573d11568bd49b8e4424dfb/jetified-emoji-ios-0.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14650b123573d11568bd49b8e4424dfb/jetified-emoji-ios-0.6.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14650b123573d11568bd49b8e4424dfb/jetified-emoji-ios-0.6.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3e2fcf66b08ec3420037df54711bb32/jetified-emoji-ios-0.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3e2fcf66b08ec3420037df54711bb32/jetified-emoji-ios-0.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3e2fcf66b08ec3420037df54711bb32/jetified-emoji-ios-0.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/32f3e4060adafbcd3f758c6fe217c1c5/jetified-emoji-ios-0.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/32f3e4060adafbcd3f758c6fe217c1c5/jetified-emoji-ios-0.6.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/32f3e4060adafbcd3f758c6fe217c1c5/jetified-emoji-ios-0.6.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../sdk/caches/modules-2/files-2.1/com.vanniktech/emoji-ios/0.6.0/7ac0787e9c9e098ce08bbdfb02065ba26b7ee9c0/emoji-ios-0.6.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vanniktech/emoji-ios/0.6.0/7ac0787e9c9e098ce08bbdfb02065ba26b7ee9c0/emoji-ios-0.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../sdk/caches/modules-2/files-2.1/com.vanniktech/emoji-ios/0.6.0/84b55c33aacddc3711142ba9915b8d4f237ad428/emoji-ios-0.6.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vanniktech/emoji-ios/0.6.0/84b55c33aacddc3711142ba9915b8d4f237ad428/emoji-ios-0.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

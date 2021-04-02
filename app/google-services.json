@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "987473667060",
+    "firebase_url": "https://pstiwari-6c947.firebaseio.com",
+    "project_id": "pstiwari-6c947",
+    "storage_bucket": "pstiwari-6c947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987473667060:android:7d793fc844d9141bfe0fa1",
+        "android_client_info": {
+          "package_name": "com.pstiwari.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987473667060-v6g4nd4dssa06j0mpkknju7cman346lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pstiwari.android",
+            "certificate_hash": "aad5e61ff12c62c61f8dc01081d2d34cd566a115"
+          }
+        },
+        {
+          "client_id": "987473667060-49s2pcp7lr4759kmepdrkh9e9rts650h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pstiwari.android",
+            "certificate_hash": "d26920368be8f18ac5343b845a05e9ca7e7746e8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBLQn70lPEK8LAF2_UR4BpYS6n7mux8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

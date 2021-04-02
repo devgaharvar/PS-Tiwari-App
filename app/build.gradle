@@ -1,0 +1,93 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
+    defaultConfig {
+        applicationId "com.pstiwari.android"
+        minSdkVersion 21
+        targetSdkVersion 29
+        versionCode 8
+        versionName "1.8"
+        ndk.abiFilters 'armeabi-v7a','arm64-v8a','x86','x86_64'
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        ndk {
+            abiFilters 'arm64-v8a', 'armeabi', 'armeabi-v7a', 'x86'
+        }
+
+        android {
+            packagingOptions {
+                exclude 'AndroidManifest.xml' //This fixes a bug in FAN 5.0.1
+            }
+        }
+
+        lintOptions {
+            checkReleaseBuilds false
+            abortOnError false
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    aaptOptions { cruncherEnabled = false }
+    configurations.all {
+        resolutionStrategy.force 'com.google.code.findbugs:jsr305:2.0.1'
+        exclude module: 'httpclient'
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'com.google.android.gms:play-services-ads:19.4.0'
+    implementation 'com.google.android.material:material:1.3.0-alpha01'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'com.google.firebase:firebase-auth:19.3.1'
+    implementation 'com.google.firebase:firebase-database:19.3.1'
+    implementation 'com.google.firebase:firebase-storage:19.1.1'
+    implementation 'com.firebaseui:firebase-ui-database:6.2.1'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'com.hbb20:ccp:2.4.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.3.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.3.0'
+    implementation 'com.google.firebase:firebase-messaging:20.2.1'
+    api 'com.theartofdev.edmodo:android-image-cropper:2.8.0'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.google.firebase:firebase-messaging:20.2.1'
+    implementation 'com.devlomi.record-view:record-view:2.0.1'
+    implementation 'com.github.JagarYousef:ChatVoicePlayer:1.0.7'
+    implementation 'com.android.support:support-annotations:28.0.0'
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    implementation project(path: ':sinch-android-rtc-3.15.0')
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+    implementation 'com.github.rygelouv:android-audio-sensei:0.1.2'
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+    implementation 'com.github.chrisbanes:PhotoView:2.3.0'
+////agora libry
+    implementation 'io.agora.rtc:full-sdk:2.9.1'
+    implementation 'com.github.jgabrielfreitas:BlurImageView:1.0.1'
+    implementation 'com.vanniktech:emoji-ios:0.6.0'
+    implementation 'com.karumi:dexter:5.0.0'
+    implementation 'com.github.khizar1556.MKVideoPlayer:mkvideoplayer:0.1.5'
+    implementation 'com.google.api-client:google-api-client:1.23.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.11.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.2.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    compileOnly 'com.google.android.wearable:wearable:2.5.0'
+}

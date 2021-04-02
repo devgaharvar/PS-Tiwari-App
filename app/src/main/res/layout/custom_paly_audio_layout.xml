@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+
+    >
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        app:cardCornerRadius="4dp"
+        app:cardBackgroundColor="#DAE2DC"
+        android:layout_marginStart="6dp"
+        android:layout_marginEnd="35dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/button_pause"
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    app:cardBackgroundColor="@color/white"
+                   >
+
+
+                    <ImageView
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/pause"/>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/button_play"
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    app:cardBackgroundColor="@color/white"
+                 >
+
+
+                    <ImageView
+                        android:id="@+id/audioreceiver"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/play_button"/>
+                </androidx.cardview.widget.CardView>
+
+            </RelativeLayout>
+
+
+            <SeekBar
+                android:id="@+id/seekbar_audio"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="26dp"
+                android:maxHeight="8dip"
+                android:minHeight="8dip"
+                android:progressTint="#99FFCE00"
+                android:secondaryProgressTint="#99FFCE00"
+                android:thumbTint="@color/colorPrimary"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

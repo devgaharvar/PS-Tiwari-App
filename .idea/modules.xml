@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dr._PS_Tiwari_Final_By_Awais_4.iml" filepath="$PROJECT_DIR$/.idea/modules/Dr._PS_Tiwari_Final_By_Awais_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dr._PS_Tiwari_Final_By_Awais_4.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dr._PS_Tiwari_Final_By_Awais_4.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sinch-android-rtc-3.15.0/Dr._PS_Tiwari_Final_By_Awais_4.sinch-android-rtc-3.15.0.iml" filepath="$PROJECT_DIR$/.idea/modules/sinch-android-rtc-3.15.0/Dr._PS_Tiwari_Final_By_Awais_4.sinch-android-rtc-3.15.0.iml" />
+    </modules>
+  </component>
+</project>

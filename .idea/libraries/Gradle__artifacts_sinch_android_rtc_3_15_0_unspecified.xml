@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:sinch-android-rtc-3.15.0:unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/sinch-android-rtc-3.15.0/build/.transforms/de638817313d6c11885a051ebc95d403/jetified-sinch-android-rtc-3.15.0/res" />
+      <root url="file://$PROJECT_DIR$/sinch-android-rtc-3.15.0/build/.transforms/1001f0d110fe85030d7ea34aa966b26b/jetified-sinch-android-rtc-3.15.0/res" />
+      <root url="file://$PROJECT_DIR$/sinch-android-rtc-3.15.0/build/.transforms/0786a5eb61943ff995cb446ff7e75464/jetified-sinch-android-rtc-3.15.0/res" />
+      <root url="jar://$PROJECT_DIR$/sinch-android-rtc-3.15.0/build/.transforms/393c58d6de7008df22d3c34b488e562a/jetified-sinch-android-rtc-3.15.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/sinch-android-rtc-3.15.0/build/.transforms/393c58d6de7008df22d3c34b488e562a/jetified-sinch-android-rtc-3.15.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/sinch-android-rtc-3.15.0/build/.transforms/393c58d6de7008df22d3c34b488e562a/jetified-sinch-android-rtc-3.15.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
